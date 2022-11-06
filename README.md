@@ -39,19 +39,19 @@ Before|After
 
 ## FAQ
 
-_So wait, why did you make this?_
+> So wait, why did you make this?
 
-`:shrug:`
+`:shrug:` Why not?
 
-_Will this slow down my web experience?_
+> Will this slow down my web experience?
 
 Yes, probably. Especially if you visit an emoji-heavy page like [this one](https://unicode.org/emoji/charts/full-emoji-list.html). 
 
-_Does this really replace every single emoji?_
+> Does this really replace every single emoji?
 
 Probably not? It's likely I missed something. Feel free to open an issue if you notice something wrong.
 
-_How do I uninstall it?_
+> How do I uninstall it?
 
 Just select "Remove from Chrome..." like you would for any other extension. 
 
