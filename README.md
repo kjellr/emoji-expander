@@ -57,5 +57,5 @@ Just select "Remove from Chrome..." like you would for any other extension.
 
 ## Acknowledgements
 
-- I forked this from [Eric Bailey](https://github.com/ericwbailey)'s classic [Millennials to Snake People](https://github.com/ericwbailey/millennials-to-snake-people) repo.
+- I forked this from [Eric Bailey](https://github.com/ericwbailey)'s classic [Millennials to Snake People](https://github.com/ericwbailey/millennials-to-snake-people) repo, which itself is a fork of [Cloud to Butt](https://github.com/panicsteve/cloud-to-butt).
 - The emoji list and short names were sourced from [Emoji Data](https://github.com/iamcal/emoji-data). 
