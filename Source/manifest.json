@@ -1,11 +1,11 @@
 {
-	"manifest_version": 2,
+	"manifest_version": 3,
 
-	"name": "Millennials to Snake People",
-    "short_name": "Snake People",
-	"description": "Replaces the text 'Millennial' with 'Snake People'.",
-	"author": "Eric Bailey",
-	"version": "2.3",
+	"name": "Emoji Expander",
+    "short_name": "Emoji Expander",
+	"description": "Expands emoji out to be actual text.",
+	"author": "Kjell Reigstad",
+	"version": "1.0",
 
 	"icons": {
 		"16": "icon16.png",

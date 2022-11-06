@@ -1,78 +1,39 @@
-# Millennials to Snake People
+# Emoji Expander
 
-Browser extension that reveals the *real* truth behind Millennials.
-
+You know how in Slack, you can type `:face_with_rolling_eyes:`, and it will give you 🙄? This is a Chrome extension that basically does the opposite of that. When it finds an emoji, it replaces it with its text-based equivilent. 
 
 ## Installation
 
-1. Add the extension to your browser of choice: 
-  - [Chrome](https://chrome.google.com/webstore/detail/millennials-to-snake-peop/jhkibealmjkbkafogihpeidfcgnigmlf)
-  - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/millennials-to-snake-people/)
-  - [Safari](https://github.com/a2/millennials-to-snake-people/releases)
-- [Free your mind](https://www.google.com/search?q=Millennials)
+`:warning:` I haven't submitted this to the Chrome Web Store — it was just a fun weekend hack!
 
-
-## Also
-
-- Need headlines automatically converted and tweeted? Follow [@snakepeople_bot](https://twitter.com/snakepeople_bot) on Twitter, courtesy of [jimkang](https://github.com/jimkang)'s [hail-ants-bot](https://github.com/jimkang/hail-ants-bot)
-- Uncomfortable that a non-compulsory, intentionally subversive browser extension uses language to affect your worldview, but still want a laugh? Try [Millennials to Snake People Pure](https://chrome.google.com/webstore/detail/millennials-to-snake-peop/ekkcdmnckghgcbgkdfbafpgepbmkjhnd?hl=en-US)
-- Addicted to text replacement plugins? Check out [Cloud to Butt Plus](https://chrome.google.com/webstore/detail/cloud-to-butt-plus/apmlngnhgbnjpajelfkmabhkfapgnoai?hl=en), [SJW to Skeleton](https://chrome.google.com/webstore/detail/sjw-to-skeleton/kckodmjikeoncekpplppkkcjolofmacc?hl=en), [Millennials Begone!](https://chrome.google.com/webstore/detail/millennials-begone/dlgjecnejicmpdknhangcbeahbgipolf?hl=en)
-
-
-## Thanks
-
-Huge thank you to the following people for their help:
-
-- Ports
-    - [a2](https://github.com/a2) for the Safari port
-    - [pselle](https://github.com/pselle) for the Firefox port
-- Assistance and advice
-    - [samford](https://github.com/samford) 
-    - [vandahm](https://github.com/vandahm)
-- DraftJSapocalypse 
-    - [flarnie](https://github.com/flarnie)
-    - [drewski3420](https://github.com/drewski3420)
-    - [hguiney](https://github.com/hguiney)
-    - [redbassett](https://github.com/redbassett)
-    - [roshkins](https://github.com/roshkins)
-    - [SnoopJeDi](https://github.com/SnoopJeDi)
-    - [spicyj](https://github.com/spicyj)
-
-
-## How to disable
-
-Don't worry! The extension can be re-enabled after ~~it destroys your blog post~~ it is disabled.
-
-### Chrome
-
-`Preferences` > `Extensions` > Uncheck `Enable`
-
-### Firefox
-
-`Tools` > `Add-ons` > `Extensions` > Click `Disable`
-
-### Safari
-
-`Preferences` > `Extensions` > Uncheck checkbox next to `Millennials to Snake People`
-
+1. Download this repo.
+2. Open `chrome://extensions/`
+3. Activate "Developer mode" in the top right.
+4. Click "Load unpacked"
+5. Select the "Source" folder you downloaded.
+6. Have fun! `:tada:`
 
 ## Screenshots
 
-### Google Search Results
-[![Google Search Results](https://i.imgur.com/GTBOuEr.png)](https://www.google.com/search?q=Millennials)
+Before|After
+---|---
+![Emoji summary with emoji](https://user-images.githubusercontent.com/1202812/200149328-cafb9d11-12b3-407a-a952-91da9b9bce6c.png)|![Emoji summary with no images](https://user-images.githubusercontent.com/1202812/200149333-e6785ddb-7e1d-4e0a-abcf-aa69cfeeb130.png)
 
-### The Atlantic
-[![The Atlantic](https://i.imgur.com/LDFOsrO.png)](http://www.theatlantic.com/politics/archive/2013/08/the-outsiders-how-can-millennials-change-washington-if-they-hate-it/278920/)
+## FAQ
 
-### BuzzFeed
-[![BuzzFeed](https://i.imgur.com/PT1NWX5.png)](http://www.buzzfeed.com/sapna/what-public-companies-are-telling-wall-street-about-millenni)
+_So wait, why did you make this?_
 
-### Installed Extensions
-#### Chrome
-![](https://i.imgur.com/xAzfhw8.png)
+`:shrug:`
 
-#### Firefox
-![](http://i.imgur.com/ro9zkDl.png)
+_Will this slow down my web experience?_
 
-#### Safari
-![](https://camo.githubusercontent.com/e244891000642e281c202b4fbd07b14fcf2bf4d7/687474703a2f2f61322e642e70722f477757712e706e67)
+Yes, probably. Especially if you visit an emoji-heavy page like [this one](https://unicode.org/emoji/charts/full-emoji-list.html). 
+
+_How do I uninstall it?_
+
+Just select "Remove from Chrome..." like you would for any other extension. 
+
+## Acknowledgements
+
+- I forked this from @ericwbailey's classic [Millennials to Snake People](https://github.com/ericwbailey/millennials-to-snake-people) repo.
+- The emoji list and short names were sourced from [Emoji Data](https://github.com/iamcal/emoji-data). 
